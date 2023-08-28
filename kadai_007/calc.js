@@ -6,7 +6,7 @@ if(num%3===0){
 else if(num%5===0){
     console.log("5の倍数です");
 }
-else if(n%5===0 && n%3===0){
+else if(num%5===0 && num%3===0){
     console.log("3と5の倍数です");
 }
 else{
